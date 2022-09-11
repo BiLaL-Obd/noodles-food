@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/noodles-food/static/css/main.5708864d.css",
+    "main.js": "/noodles-food/static/js/main.19a367fe.js",
+    "static/media/landing-4.jpg": "/noodles-food/static/media/landing-4.92fb4de129ab5af1bd2f.jpg",
+    "static/media/product-4.jpg": "/noodles-food/static/media/product-4.5a85944c3afda15e82a2.jpg",
+    "static/media/landing-2.jpg": "/noodles-food/static/media/landing-2.d36c07748c3713e517da.jpg",
+    "static/media/product-3.jpg": "/noodles-food/static/media/product-3.816c0e51bb3ac6ea85ba.jpg",
+    "static/media/gategory-1.jpg": "/noodles-food/static/media/gategory-1.ac26a5098837cbe5a8ff.jpg",
+    "static/media/landing-3.jpg": "/noodles-food/static/media/landing-3.0f8d858e4750a8bca551.jpg",
+    "static/media/product-2.jpg": "/noodles-food/static/media/product-2.6ec1575b455a40c48281.jpg",
+    "static/media/landing-1.jpg": "/noodles-food/static/media/landing-1.2408e3f29a1a49fbd267.jpg",
+    "static/media/about.jpg": "/noodles-food/static/media/about.97bb25e827fae725984e.jpg",
+    "static/media/product-1.jpg": "/noodles-food/static/media/product-1.1a6a29cc974a6087007b.jpg",
+    "static/media/gategory-2.jpg": "/noodles-food/static/media/gategory-2.f728fb1b0137ba6f4e44.jpg",
+    "static/media/singup.jpg": "/noodles-food/static/media/singup.836f14350518d837858c.jpg",
+    "index.html": "/noodles-food/index.html",
+    "main.5708864d.css.map": "/noodles-food/static/css/main.5708864d.css.map",
+    "main.19a367fe.js.map": "/noodles-food/static/js/main.19a367fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5708864d.css",
+    "static/js/main.19a367fe.js"
+  ]
+}
