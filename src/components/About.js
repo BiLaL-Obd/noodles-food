@@ -20,11 +20,11 @@ const About = () => {
                 <div className="about-info">
                     <h1 className="main-title text-uppercase text-light mb-3">About us</h1>
                     <p className="text-light">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
-                    <button to='signup' 
+                    <button
                                             onMouseEnter={onHover} 
                                             onMouseLeave={onHover} 
                                             className="about-btn border-0 m-0 mt-lg-3 overflow-hidden">
-                                                <Link to='signup' className="d-flex justify-content-between gap-2 align-items-center position-relative p-3 ps-5 text-light">
+                                                <Link to='/noodles-food/signup' className="d-flex justify-content-between gap-2 align-items-center position-relative p-3 ps-5 text-light">
                                                 <div className="arrow position-absolute start-0 d-flex justify-content-center align-items-center"><FaAngleRight size={30}/></div> Learn More
                                                 </Link>
                     </button>

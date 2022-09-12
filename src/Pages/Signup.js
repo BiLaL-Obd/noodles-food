@@ -22,10 +22,10 @@ const Signup = () => {
     <div className="signup position-relative">
       <Navbar expand="lg">
         <Container>
-          <Navbar.Brand href="/" className="text-light text-uppercase fs-5 p-0 text-center">Noodles<br/>Food</Navbar.Brand>
+          <Navbar.Brand href="/noodles-food/" className="text-light text-uppercase fs-5 p-0 text-center">Noodles<br/>Food</Navbar.Brand>
           <Navbar>
             <Nav className="ms-auto align-items-center text-warning">
-              <Nav.Link href="/" className="sign text-light p-2 m-2 ps-3 pe-3 text-uppercase text-bg-warning rounded-2">Back to Homepage</Nav.Link>
+              <Nav.Link href="/noodles-food/" className="sign text-light p-2 m-2 ps-3 pe-3 text-uppercase text-bg-warning rounded-2">Back to Homepage</Nav.Link>
             </Nav>
           </Navbar>
         </Container>
@@ -49,8 +49,8 @@ const Signup = () => {
               <input type="submit" value="Login" className="mt-3 text-uppercase fs-5 ps-4 pe-4 pt-2 pb-2 bg-warning text-light rounded-2" />
             </div>
             <div className="mt-3 links">
-                <Link to="/" className="text-light d-block pt-2 pb-1">Register Now</Link>
-                <Link to="/" className="text-light d-block pt-2 pb-1">Forget Password ?</Link>
+                <Link to="/noodles-food/" className="text-light d-block pt-2 pb-1">Register Now</Link>
+                <Link to="/noodles-food/" className="text-light d-block pt-2 pb-1">Forget Password ?</Link>
             </div>
           </form>
         </div>

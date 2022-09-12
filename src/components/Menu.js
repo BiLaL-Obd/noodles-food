@@ -12,7 +12,7 @@ const Menu = () => {
         <Container>
         {
             menuObj.map((menu,index)=>(
-                <Link to='signup'  key={index}>
+                <Link to='/noodles-food/signup'  key={index}>
                     <div className="box text-uppercase text-light m-auto p-4">
                         <Row className="align-items-center text-center text-md-start">
                             <Col md={5}><h3>{menu.title}</h3></Col>

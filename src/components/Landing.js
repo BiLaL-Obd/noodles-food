@@ -33,7 +33,7 @@ const Landing = () => {
                       <h1 className="text-uppercase m-0">{land.title1}</h1>
                       <h1 className="text-uppercase m-0 mb-2">{land.title2}</h1>
                       <p className="m-auto p-2">{land.body}</p>
-                      <button to='signup' 
+                      <button to='noodles-food/signup' 
                                           onMouseEnter={onHover} 
                                           onMouseLeave={onHover} 
                                           className={hover?"text-bg-warning rounded-2 border-0 m-0 mt-lg-3 overflow-hidden":"text-bg-danger rounded-2 border-0 m-0 mt-lg-3 overflow-hidden"}>

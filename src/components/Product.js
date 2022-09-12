@@ -47,7 +47,7 @@ const Product = () => {
             {
                 productObj.map(product=>(
                     <SwiperSlide key={product.id}>
-                        <Link to="signup">
+                        <Link to="/noodles-food/signup">
                           <div className="box position-relative rounded-3 text-light overflow-hidden">
                               <div className="img overflow-hidden rounded-3 mb-3">
                                   <img className="img-fluid" src={product.img} alt="" />

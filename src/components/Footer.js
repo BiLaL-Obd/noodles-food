@@ -9,7 +9,7 @@ const Footer = () => {
       <Container>
         <Row className="pb-5 align-items-center text-warning">
             <Col xl={3} className="mb-3">
-                <h3><Link to="/" className="text-center d-block text-light text-uppercase">Noodles <br/> Food</Link></h3>
+                <h3><a href="#home" className="text-center d-block text-light text-uppercase">Noodles <br/> Food</a></h3>
             </Col>
             <Col xl={6} className="mb-3">
                 <div className="links d-flex justify-content-between flex-column flex-md-row align-items-center text-warning">
