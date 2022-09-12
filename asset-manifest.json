@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/noodles-food/static/css/main.5708864d.css",
-    "main.js": "/noodles-food/static/js/main.d1695a02.js",
+    "main.js": "/noodles-food/static/js/main.35349ba2.js",
     "static/media/landing-4.jpg": "/noodles-food/static/media/landing-4.92fb4de129ab5af1bd2f.jpg",
     "static/media/product-4.jpg": "/noodles-food/static/media/product-4.5a85944c3afda15e82a2.jpg",
     "static/media/landing-2.jpg": "/noodles-food/static/media/landing-2.d36c07748c3713e517da.jpg",
@@ -16,10 +16,10 @@
     "static/media/singup.jpg": "/noodles-food/static/media/singup.836f14350518d837858c.jpg",
     "index.html": "/noodles-food/index.html",
     "main.5708864d.css.map": "/noodles-food/static/css/main.5708864d.css.map",
-    "main.d1695a02.js.map": "/noodles-food/static/js/main.d1695a02.js.map"
+    "main.35349ba2.js.map": "/noodles-food/static/js/main.35349ba2.js.map"
   },
   "entrypoints": [
     "static/css/main.5708864d.css",
-    "static/js/main.d1695a02.js"
+    "static/js/main.35349ba2.js"
   ]
 }
