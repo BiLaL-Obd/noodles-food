@@ -73,7 +73,7 @@ const NavbarMenu = () => {
                   >
                   Subscribe
                 </Link>
-            <Nav.Link href="signup" className="sign text-light p-2 m-2 ps-3 pe-3 text-uppercase text-bg-warning rounded-2">Sign up</Nav.Link>
+            <Nav.Link href="/noodles-food/signup" className="sign text-light p-2 m-2 ps-3 pe-3 text-uppercase text-bg-warning rounded-2">Sign up</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
