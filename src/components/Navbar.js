@@ -6,7 +6,7 @@ const NavbarMenu = () => {
   return (
     <Navbar expand="lg" className="sticky-top">
       <Container>
-        <Navbar.Brand href="/" className="text-light text-uppercase fs-5 p-0 text-center">Noodles<br/>Food</Navbar.Brand>
+        <Navbar.Brand href="#" className="text-light text-uppercase fs-5 p-0 text-center">Noodles<br/>Food</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" className="border-warning shadow-none " >
           <FaBars size={22} className='text-light'/>
         </Navbar.Toggle>
